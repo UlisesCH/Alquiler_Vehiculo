@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571282601402",
+    "project_id": "alcar-3e07e",
+    "storage_bucket": "alcar-3e07e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571282601402:android:ef7ebce7ae2f0cbfa2d983",
+        "android_client_info": {
+          "package_name": "com.example.alcar_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571282601402-e36g18l0dvs117vtg5kjk89aqsa2h6lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWIOXxkapxRhF38U8md2VG9Vgube2Usg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571282601402-e36g18l0dvs117vtg5kjk89aqsa2h6lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

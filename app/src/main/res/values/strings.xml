@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALCAR</string>
+    <string name="home">Inicio</string>
+    <string name="new_rent">Alquiler</string>
+    <string name="config">Config</string>
+
+    <string name="cliente">Cliente</string>
+    <string name="auto">Vehiculo</string>
+    <string name="title_activity_listado">Listado</string>
+    <string name="Estados">Seleccione un Estado</string>
+
+    <string-array name="planets_array">
+        <item>Disponible</item>
+        <item>Mantinimiento</item>
+    </string-array>
+
+</resources>
